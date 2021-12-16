@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Zadanie№8\Zadanie№8\bin\Debug\Zadanie№8.exe.config
+C:\Users\student\source\repos\Zadanie№8\Zadanie№8\bin\Debug\Zadanie№8.exe
+C:\Users\student\source\repos\Zadanie№8\Zadanie№8\bin\Debug\Zadanie№8.pdb
+C:\Users\student\source\repos\Zadanie№8\Zadanie№8\obj\Debug\Zadanie№8.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Zadanie№8\Zadanie№8\obj\Debug\Zadanie_8.Form1.resources
+C:\Users\student\source\repos\Zadanie№8\Zadanie№8\obj\Debug\Zadanie_8.Properties.Resources.resources
+C:\Users\student\source\repos\Zadanie№8\Zadanie№8\obj\Debug\Zadanie№8.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Zadanie№8\Zadanie№8\obj\Debug\Zadanie№8.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Zadanie№8\Zadanie№8\obj\Debug\Zadanie№8.exe
+C:\Users\student\source\repos\Zadanie№8\Zadanie№8\obj\Debug\Zadanie№8.pdb
